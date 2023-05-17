@@ -7,12 +7,12 @@
 header{
     background: url(img/banner.jpg);
     padding: 5em;
-    width: 100%;
+    width: auto;
     height: 80px;
     background-size: cover;
 }
 header h1{
-    text-align: center;
+    text-align: left;
     font-size: 40px;
     color:#141111;
     padding: 20px 0;
